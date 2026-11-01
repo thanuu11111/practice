@@ -1,0 +1,18 @@
+git init
+git clone
+git add 
+git commit
+git push
+git log
+git log --oneline
+git fetch
+git pull
+git merge
+git revert
+git reset
+git fork
+git remote -v
+git rebase
+git checkout -b
+git branch 
+history
